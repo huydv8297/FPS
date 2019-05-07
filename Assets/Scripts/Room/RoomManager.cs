@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class RoomManager : Photon.Monobehaviour
+public class RoomManager 
 {
 
     public GameObject roomPrefab;
